@@ -1,0 +1,16 @@
+{
+  "short_name": "MamtaTrans",
+  "name": "Mamta Enterprises Logistics",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Jamshedpur's trusted logistics partner",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#000066"
+}
